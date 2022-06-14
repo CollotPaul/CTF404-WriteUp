@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Jun 10 05:23:33 2022
+Invocation: foremost -t all -i flag_c0rr_pt3d.png 
+Output directory: /home/kali/Desktop/output@/zip/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: flag_c0rr_pt3d.png
+Start: Fri Jun 10 05:23:33 2022
+Length: 60 KB (61863 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Fri Jun 10 05:23:33 2022
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Fri Jun 10 05:23:33 2022

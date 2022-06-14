@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Jun 10 03:23:14 2022
+Invocation: foremost -t all -i diskrecup.img 
+Output directory: /home/kali/Desktop/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: diskrecup.img
+Start: Fri Jun 10 03:23:14 2022
+Length: 54 KB (55512 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.zip 	      54 KB 	          0 	 
+Finish: Fri Jun 10 03:23:14 2022
+
+1 FILES EXTRACTED
+	
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Jun 10 03:23:14 2022
